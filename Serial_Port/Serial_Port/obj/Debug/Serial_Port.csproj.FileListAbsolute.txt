@@ -1,0 +1,10 @@
+D:\Documents\IOT\cshrap\Serial_Port\Serial_Port\bin\Debug\Serial_Port.exe.config
+D:\Documents\IOT\cshrap\Serial_Port\Serial_Port\bin\Debug\Serial_Port.exe
+D:\Documents\IOT\cshrap\Serial_Port\Serial_Port\bin\Debug\Serial_Port.pdb
+D:\Documents\IOT\cshrap\Serial_Port\Serial_Port\obj\Debug\Serial_Port.csprojAssemblyReference.cache
+D:\Documents\IOT\cshrap\Serial_Port\Serial_Port\obj\Debug\Serial_Port.Form1.resources
+D:\Documents\IOT\cshrap\Serial_Port\Serial_Port\obj\Debug\Serial_Port.Properties.Resources.resources
+D:\Documents\IOT\cshrap\Serial_Port\Serial_Port\obj\Debug\Serial_Port.csproj.GenerateResource.cache
+D:\Documents\IOT\cshrap\Serial_Port\Serial_Port\obj\Debug\Serial_Port.csproj.CoreCompileInputs.cache
+D:\Documents\IOT\cshrap\Serial_Port\Serial_Port\obj\Debug\Serial_Port.exe
+D:\Documents\IOT\cshrap\Serial_Port\Serial_Port\obj\Debug\Serial_Port.pdb
